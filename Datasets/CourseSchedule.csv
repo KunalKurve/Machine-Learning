@@ -1,0 +1,14 @@
+Sno,CourseCode,BeginDate,EndDate,Venue
+1,1,23-Nov-14,13-Dec-15,Hinjewadi
+2,1,24-Nov-14,15-Dec-14,Vimannagar
+3,2,13-Apr-14,13-May-14,Hinjewadi
+4,2,14-Sep-14,12-Dec-14,Magarpatta
+5,3,4-May-14,9-Jun-14,Hinjewadi
+6,3,6-Sep-14,7-Oct-14,Vimannagar
+7,3,18-Aug-14,23-Oct-14,Magarpatta
+8,4,12-Sep-14,13-Oct-14,Vimannagar
+9,4,14-Jul-14,14-Aug-14,Magarpatta
+10,5,12-Nov-14,31-Dec-14,Hinjewadi
+11,6,14-Dec-14,3-Jan-15,"Sakinaka, Mumbai"
+12,6,12-Jan-15,3-Feb-15,Magarpatta
+13,6,12-Feb-15,3-Mar-15,Vimannagar

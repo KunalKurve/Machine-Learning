@@ -1,0 +1,11 @@
+Gender,AgeGrp,Emp_status,Lives
+F,23-30,Student,Rented
+F,31-39,Employed,Own
+M,40-45,Self_employed,Rented
+M,23-30,Business,Rented
+M,23-30,Business,Rented
+F,40-45,Self_employed,Rented
+F,31-39,Student,Own
+M,40-45,Self_employed,Own
+F,23-30,Business,Own
+F,23-30,Self_employed,Rented

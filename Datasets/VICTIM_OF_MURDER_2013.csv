@@ -1,0 +1,106 @@
+STATE/UT,YEAR,GENDER,Upto 10 years,10-15 years,15-18 years,18-30 years,30-50 years,Above 50 years,Total
+Andhra Pradesh,2013,Male,26,9,19,445,1036,199,1734
+Andhra Pradesh,2013,Female,20,9,11,287,300,123,750
+Andhra Pradesh,2013,Total,46,18,30,732,1336,322,2484
+Arunachal Pradesh,2013,Male,0,0,1,32,31,1,65
+Arunachal Pradesh,2013,Female,0,1,1,2,0,0,4
+Arunachal Pradesh,2013,Total,0,1,2,34,31,1,69
+Assam,2013,Male,0,3,11,827,370,46,1257
+Assam,2013,Female,0,0,0,68,29,0,97
+Assam,2013,Total,0,3,11,895,399,46,1354
+Bihar,2013,Male,29,24,72,1428,1047,133,2733
+Bihar,2013,Female,15,12,34,446,184,17,708
+Bihar,2013,Total,44,36,106,1874,1231,150,3441
+Chhattisgarh,2013,Male,31,16,33,176,262,112,630
+Chhattisgarh,2013,Female,14,4,13,113,138,62,344
+Chhattisgarh,2013,Total,45,20,46,289,400,174,974
+Goa,2013,Male,0,0,0,11,8,6,25
+Goa,2013,Female,0,0,0,5,4,3,12
+Goa,2013,Total,0,0,0,16,12,9,37
+Gujarat,2013,Male,34,2,6,292,326,126,786
+Gujarat,2013,Female,43,8,4,148,126,47,376
+Gujarat,2013,Total,77,10,10,440,452,173,1162
+Haryana,2013,Male,14,9,34,357,309,72,795
+Haryana,2013,Female,13,6,11,95,73,15,213
+Haryana,2013,Total,27,15,45,452,382,87,1008
+Himachal Pradesh,2013,Male,3,2,0,24,39,9,77
+Himachal Pradesh,2013,Female,3,0,0,13,6,7,29
+Himachal Pradesh,2013,Total,6,2,0,37,45,16,106
+Jammu & Kashmir,2013,Male,6,2,0,47,90,11,156
+Jammu & Kashmir,2013,Female,4,1,0,14,7,2,28
+Jammu & Kashmir,2013,Total,10,3,0,61,97,13,184
+Jharkhand,2013,Male,1,0,40,782,556,52,1431
+Jharkhand,2013,Female,0,0,12,128,82,10,232
+Jharkhand,2013,Total,1,0,52,910,638,62,1663
+Karnataka,2013,Male,27,9,27,402,413,90,968
+Karnataka,2013,Female,54,8,17,340,246,51,716
+Karnataka,2013,Total,81,17,44,742,659,141,1684
+Kerala,2013,Male,23,3,3,31,123,70,253
+Kerala,2013,Female,25,3,0,18,45,30,121
+Kerala,2013,Total,48,6,3,49,168,100,374
+Madhya Pradesh,2013,Male,31,20,37,596,647,194,1525
+Madhya Pradesh,2013,Female,18,13,8,293,241,60,633
+Madhya Pradesh,2013,Total,49,33,45,889,888,254,2158
+Maharashtra,2013,Male,67,19,23,626,673,282,1690
+Maharashtra,2013,Female,76,23,17,412,287,80,895
+Maharashtra,2013,Total,143,42,40,1038,960,362,2585
+Manipur,2013,Male,0,1,3,21,42,14,81
+Manipur,2013,Female,0,0,0,8,9,1,18
+Manipur,2013,Total,0,1,3,29,51,15,99
+Meghalaya,2013,Male,1,1,4,64,67,11,148
+Meghalaya,2013,Female,2,1,0,7,8,1,19
+Meghalaya,2013,Total,3,2,4,71,75,12,167
+Mizoram,2013,Male,0,2,0,9,7,2,20
+Mizoram,2013,Female,1,0,0,2,3,3,9
+Mizoram,2013,Total,1,2,0,11,10,5,29
+Nagaland,2013,Male,0,0,0,48,22,3,73
+Nagaland,2013,Female,0,0,0,5,1,1,7
+Nagaland,2013,Total,0,0,0,53,23,4,80
+Odisha,2013,Male,2,3,14,372,441,106,938
+Odisha,2013,Female,7,4,11,311,208,21,562
+Odisha,2013,Total,9,7,25,683,649,127,1500
+Punjab,2013,Male,10,4,8,185,237,65,509
+Punjab,2013,Female,10,7,4,93,93,22,229
+Punjab,2013,Total,20,11,12,278,330,87,738
+Rajasthan,2013,Male,22,8,22,490,510,125,1177
+Rajasthan,2013,Female,7,9,4,178,158,40,396
+Rajasthan,2013,Total,29,17,26,668,668,165,1573
+Sikkim,2013,Male,0,0,0,8,3,1,12
+Sikkim,2013,Female,0,0,0,1,2,0,3
+Sikkim,2013,Total,0,0,0,9,5,1,15
+Tamil Nadu,2013,Male,26,6,10,361,661,316,1380
+Tamil Nadu,2013,Female,45,6,12,212,259,126,660
+Tamil Nadu,2013,Total,71,12,22,573,920,442,2040
+Tripura,2013,Male,1,1,2,29,37,16,86
+Tripura,2013,Female,3,1,1,23,21,7,56
+Tripura,2013,Total,4,2,3,52,58,23,142
+Uttar Pradesh,2013,Male,64,67,162,1658,1467,495,3913
+Uttar Pradesh,2013,Female,50,52,111,585,359,103,1260
+Uttar Pradesh,2013,Total,114,119,273,2243,1826,598,5173
+Uttarakhand,2013,Male,2,1,1,41,62,16,123
+Uttarakhand,2013,Female,2,0,1,39,21,11,74
+Uttarakhand,2013,Total,4,1,2,80,83,27,197
+West Bengal,2013,Male,1,11,34,1060,555,12,1673
+West Bengal,2013,Female,2,2,20,344,219,4,591
+West Bengal,2013,Total,3,13,54,1404,774,16,2264
+A&N Islands,2013,Male,0,0,0,2,2,0,4
+A&N Islands,2013,Female,0,0,0,0,2,0,2
+A&N Islands,2013,Total,0,0,0,2,4,0,6
+Chandigarh,2013,Male,0,0,9,10,1,0,20
+Chandigarh,2013,Female,2,0,0,0,0,0,2
+Chandigarh,2013,Total,2,0,9,10,1,0,22
+D&N Haveli,2013,Male,0,0,0,0,1,1,2
+D&N Haveli,2013,Female,0,0,0,0,0,1,1
+D&N Haveli,2013,Total,0,0,0,0,1,2,3
+Daman & Diu,2013,Male,1,0,0,3,1,0,5
+Daman & Diu,2013,Female,0,0,0,2,2,0,4
+Daman & Diu,2013,Total,1,0,0,5,3,0,9
+Delhi UT,2013,Male,15,7,13,223,112,38,408
+Delhi UT,2013,Female,5,1,8,51,50,7,122
+Delhi UT,2013,Total,20,8,21,274,162,45,530
+Lakshadweep,2013,Male,0,0,0,0,0,0,0
+Lakshadweep,2013,Female,0,0,0,0,0,0,0
+Lakshadweep,2013,Total,0,0,0,0,0,0,0
+Puducherry,2013,Male,0,0,0,6,13,5,24
+Puducherry,2013,Female,0,0,0,1,2,4,7
+Puducherry,2013,Total,0,0,0,7,15,9,31

@@ -1,0 +1,7 @@
+{"schema":
+{"fields":[{"name":"index","type":"integer"},{"name":"Month","type":"string"},{"name":"Sales","type":"number"}],
+"primaryKey":["index"],"pandas_version":"0.20.0"}, 
+"data": [{"index":0,"Month":"January","Sales":17.5},
+{"index":1,"Month":"February","Sales":21.8},
+{"index":2,"Month":"March","Sales":24.5},
+{"index":3,"Month":"April","Sales":25.1}]}
