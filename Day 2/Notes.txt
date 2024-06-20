@@ -1,0 +1,37 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Apr 27 10:41:31 2024
+
+@author: Administrator
+"""
+
+StratifiedKFold is meant to used with Classification Models only 
+With Regression Use K Fold only.
+
+# Gaussian Naive Bayes comes under Kernel NB which deals with Numerical data
+# There is Discrete Naive Bayes for categorical Data
+
+
+predict()
+gives category of maximum probability
+in array data type
+
+argmax() : gives index of highest probability
+
+ROC is only calculatable for bi-class Datasets 
+
+LabelEncoder() - needed to encode categorical data
+
+binning - converting discrete data to categorical like age to age-group, income to income-slab
+pandas.cut() is a function to do it in dataframes.
+
+
+Logistic Regression is used for Classification type problems not Regression
+Types - 
+Binary, Multinomial, 
+
+
+Logistic Response Function has a Sigmoid function graph
+Range of Linear Regression = [-inf, +inf]
+Range of Logistic Regression = [0,1] = answer will always be a probability
+Different from Naive Bayes's answer - it is not a sigmoid function graph.
