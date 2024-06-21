@@ -1,0 +1,46 @@
+Bias, Variance, Over-fitting, Under-fitting
+
+Bootstrap
+
+Boosting:
+    Ada Boost, Gradient Boost, Extrem Gradient Boost
+    
+Algorithms:
+  a. Weak Learner / Hypothesis: Accuracy better than normal (0.5) but not high.
+  b. Strong Learner / Hypothesis: Accuracy is good, can be deployed.
+
+Adaptive Boosting 
+ - sklearn.ensemble
+ - Classes:
+    Classifier
+    Regresser
+    
+Gradient Boosting;
+ - Advanced Ada Boost. 
+ - Uses gradient decent + boosting
+Working:
+
+alpha = Learning Rate / gradient decent 
+
+ - Error1 = y - y_pred
+   Error2 -> Error1's error
+ 
+ - t1 -> t1.fit(X_train, y_train)
+   t2 -> t2.fit(X_train, error1)
+   t3 -> t3.fit(X_train, error2)
+   tn -> tn.fit(X_train, error(n-1))
+   
+ - t1.predict(X_test) + alpha * t2.predict(X_test) +....... + alpha * tn.predict(X_test)
+ 
+ Programs:
+  - Gradient Boosting Classifier
+  - Extreme Gradient Boosting Classifier
+  - Light Gradient Boosting Classifier
+  - Cat Boost: Algorithm for gradient boosting on decision trees
+  
+Stack Ensembling:
+ LogisticRegression().fit(X_train,y_train) & .predict(X_train) -> y_pred_lr
+ SVC().fit(X_train,y_train)                & .predict(X_train) -> y_pred_svc
+ TreeClassifier().fit(X_train,y_train)     & .predict(X_train) -> y_pred_dtc
+ 
+ We take .predict of all 3 using RandomTreeClassifier to get final Predict
