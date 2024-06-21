@@ -1,0 +1,11 @@
+Bagging - Bootstrap Aggregating
+
+randomized Search CV
+
+Voting Classification and Regresssion
+
+Weighted and Non Weighted Voting in GridSCV
+
+Numpy Random Choice function
+
+np.random.choice()
