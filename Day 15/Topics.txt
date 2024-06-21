@@ -1,0 +1,5 @@
+Anomaly Detection:
+- Outlier Detection
+- An actual data point significantly outside a distribution’s mean or median is an outlier.
+- An anomaly is a false data point made by a different process than the rest of the data.
+- An outlier is a valid data point, and can’t be ignored or removed, whereas noise is garbage that needs removal.
