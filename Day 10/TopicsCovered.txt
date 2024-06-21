@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May  7 11:44:55 2024
+
+@author: Administrator
+"""
+
+Principal Component Analysis
+-
+
+Manifold - TSNE
