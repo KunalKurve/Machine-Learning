@@ -1,0 +1,11 @@
+Time Series Forecasting: 
+
+Time series forecasting is a technique that uses historical data to predict future values. It is a type of predictive modeling that is used to forecast future values of
+    1. Moving Average Rolling - no Exponential
+       -   Trailing Rolling Mean 
+    2. Single Exponential Smoothing (Single)
+    4. Holt's Linear Method (Double)
+    5. Holt's Exponential Method (Double)
+    6. Damped Add and Multi (Double)
+    7. Additive Seasonal HW (Triple)
+    8. Multi Seasonal HW (Triple)
